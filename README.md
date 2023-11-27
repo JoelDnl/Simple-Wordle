@@ -1,4 +1,4 @@
-WORDLE GAME
+# WORDLE GAME
 
 DESCRIPTION:
 -----------
